@@ -11,3 +11,4 @@
 - cppcoro
 - Boost.DI(?
 - assimp
+- cmake
