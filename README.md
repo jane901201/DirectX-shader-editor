@@ -15,4 +15,4 @@
 
   # 架構
   Logger
-  .dll 相關建置的東西
+  .dll 相關建置的東西 cmake 自動化
