@@ -12,3 +12,7 @@
 - Boost.DI(?
 - assimp
 - cmake
+
+  # 架構
+  Logger
+  .dll 相關建置的東西
