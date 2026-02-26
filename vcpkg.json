@@ -9,7 +9,7 @@
     "directx-headers",
     "directx12-agility",
     "directxmath",
-    "winpixevent",
-    "directxtk12"
+    "directxtk12",
+    "winpixevent"
   ]
 }
