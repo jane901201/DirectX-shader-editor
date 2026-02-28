@@ -12,7 +12,7 @@
 - Boost.DI(?
 - assimp
 - cmake
-- Qt
+- imgui
 
   # 架構
   Logger
