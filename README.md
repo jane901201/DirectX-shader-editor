@@ -157,6 +157,6 @@ WebGPU Three.js 之類的
 # 下載與設置
 發現沒辦法下載直接用，要寫一下教學
 .bat  powershell 之類的下載檔案研究
-
+下載後跑個 .bat 之類的會自動下載 vcpkg 的 submodule
 
 git clone https://github.com/microsoft/vcpkg.git vcpkg
