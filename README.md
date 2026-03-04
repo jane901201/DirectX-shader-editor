@@ -148,6 +148,36 @@ CLI/                  # headless compile & validate
 SIMD Programming
 https://youtu.be/vIRjSdTCIEU?si=RehS6J_dIUwefYq_
 
+<MyShaderProject>/
+  project.json                # プロジェクトの入口（最近開いたファイル等は入れない）
+  Graphs/
+    MyShader.graph.json       # グラフ本体（共有対象）
+    Subgraphs/
+      Lighting.subgraph.json
+  Shaders/
+    Generated/
+      MyShader_PS.hlsl        # 生成物（消しても再生成できる）
+    Includes/
+      Common.hlsli            # 手書きinclude（共有対象）
+  Assets/
+    Textures/
+    Meshes/
+    LUT/
+  Metadata/
+    asset_db.json             # GUID/依存関係/検索用index（共有でもOK）
+  Build/
+    Dxil/                     # コンパイル成果物（キャッシュ扱い）
+    Spirv/
+  Autosaves/
+    MyShader_20260304_1430.graph.json
+  Backups/
+    MyShader.graph.json.bak
+  Cache/
+    thumbnails/
+    preview_renders/
+  Logs/
+    editor.log
+
 # 有時間
 兼容 Vulkan 版本
 
