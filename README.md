@@ -178,6 +178,12 @@ https://youtu.be/vIRjSdTCIEU?si=RehS6J_dIUwefYq_
   Logs/
     editor.log
 
+
+# 討論串
+Qt vs ImGui Shader UI
+
+QtとDirectX12の共存
+
 # 有時間
 兼容 Vulkan 版本
 
