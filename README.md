@@ -189,6 +189,7 @@ QtとDirectX12の共存
 
 # 進一步
 WebGPU Three.js 之類的
+用 AI 新增 node?
 
 # 下載與設置
 發現沒辦法下載直接用，要寫一下教學
