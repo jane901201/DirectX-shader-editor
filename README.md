@@ -178,6 +178,11 @@ https://youtu.be/vIRjSdTCIEU?si=RehS6J_dIUwefYq_
   Logs/
     editor.log
 
+#Code style
+.clang-format
+.clang-tidy
+CMake
+CI (GitHub Actions)
 
 # 討論串
 Qt vs ImGui Shader UI
