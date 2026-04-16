@@ -1,6 +1,8 @@
 # DirectX-shader-editor
 嘗試用 DirectX 製作 shader 編輯器
 
+方向： .basemat .vert .frag -> .mat，到 shader editor 的介面，然後最後嘗試渲染出卡通的渲染效果
+
 # 版本
 - DirectX12
 - HLSL
