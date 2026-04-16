@@ -3,6 +3,8 @@
 
 方向： .basemat .vert .frag -> .mat，到 shader editor 的介面，然後最後嘗試渲染出卡通的渲染效果
 
+引擎複製路徑的按鈕
+
 # 版本
 - DirectX12
 - HLSL
