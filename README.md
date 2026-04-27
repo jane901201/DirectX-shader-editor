@@ -20,6 +20,9 @@
 - cmake
 - imgui
 
+用 assimp 寫一個自訂的 iMaterial 來處理多種3D格式的導入
+
+
   # 架構
   Logger
   .dll 相關建置的東西 cmake 自動化
